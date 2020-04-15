@@ -30,10 +30,19 @@ The resulting data consists of just one table that contains all of the necessary
 
 Apart from the resources in this repo, several online resources are available for further Covid-19 research.
 
-Johns Hopkins Dashboard (Currently cited by most news organizations)  https://coronavirus.jhu.edu/map.html
-CDC Covid-19 https://www.cdc.gov/coronavirus/2019-ncov/index.html
-WHO Situation Reports https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
-NCDHHS Covid-19 Response https://www.ncdhhs.gov/divisions/public-health/covid19
-European Commission Coronavirus Response https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response_en
+Johns Hopkins Dashboard (Currently cited by most news organizations)
+https://coronavirus.jhu.edu/map.html
+
+CDC Covid-19
+https://www.cdc.gov/coronavirus/2019-ncov/index.html
+
+WHO Situation Reports
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+
+NCDHHS Covid-19 Response
+https://www.ncdhhs.gov/divisions/public-health/covid19
+
+European Commission Coronavirus Response
+https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response_en
 
 
