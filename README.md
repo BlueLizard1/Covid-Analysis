@@ -2,7 +2,7 @@
  
 ## Overview
 
-The Covid Analysis repo was created as a proof of concept to analyze the current Covid-19 crisis. The data for the repo is taken directly from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University  ( CSSEGISandData / COVID-19 repo https://github.com/CSSEGISandData/COVID-19).
+The Covid Analysis repo was created as a pet project to analyze the current Covid-19 crisis. The data for the repo is taken directly from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University  ( CSSEGISandData / COVID-19 repo https://github.com/CSSEGISandData/COVID-19). This project will likely change often based on newer expectations on the questions that need answers.
 
 The data from the Github repo is availabe in daily csv files (also available in time-series data) that can be downloaded freely from the repo. 
 
