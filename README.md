@@ -10,9 +10,7 @@ The data from the Github repo is availabe in daily csv files (also available in 
 
 ### Step 1 - Retrieve the source files
 
-A batch (???) file was created to enable the refreshing of the repo that will include the new daily files.
-
-It was set up to run automatically using XXX (mac) and similarly Windows Task Manager.
+Git was used to retrieve the latest data from Github.
 
 ### Step 2 - Import the data into SQL Server
 
